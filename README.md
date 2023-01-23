@@ -1,13 +1,15 @@
 # Hi! I'm Nicolas! 👋🏻
 
 ## About me 🧑🏽‍💻
-💻 I'am a fullstack JavaScript developer.
-🇨🇴 I'm from Colombia.
-❤️ Love programming and learning new technologies.
-🗣️ Bilingual native spanish and B1 english.
+- 💻 I'am a fullstack JavaScript developer.
+- 🇨🇴 I'm from Colombia.
+- ❤️ Love programming and learning new technologies.
+- 🗣️ Bilingual native spanish and B1 english.
 
 ## Skills
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
+</div>
 
 ## 📈 Stats
 
