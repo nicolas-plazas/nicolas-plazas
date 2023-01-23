@@ -35,8 +35,13 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-## 📈 Stats
+## Stats 📈
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=nicolas-plazas&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-plazas&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=nicolas-plazas&theme=gruvbox&hide_border=true)]([https://git.io/streak-stats])  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-plazas&theme=gruvbox)] |
 | ------------ | ------------ |
 |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-plazas&show_icons=true&theme=gruvbox)
+
+## Contact ✉️
+Thank you for see my profile, if you want to know more about me, please contact me with the link below. **Have a nice day!**
+
+**https://linktr.ee/nicolas.plazas**
